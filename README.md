@@ -3,24 +3,24 @@
 > Bootstrapped, pre-seed, and angel-funded AI products built by independent founders.
 
 ## Contents
-- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (16)
-- [🤖 AI Agents & Assistants](#ai-agents-assistants) (86)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (95)
-- [🎙 Audio, Voice & Music](#audio-voice-music) (29)
-- [🎬 Video & Animation](#video-animation) (15)
+- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (20)
+- [🤖 AI Agents & Assistants](#ai-agents-assistants) (88)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (101)
+- [🎙 Audio, Voice & Music](#audio-voice-music) (30)
+- [🎬 Video & Animation](#video-animation) (16)
 - [🎨 Image, Design & 3D](#image-design-3d) (28)
 - [✍️ Writing & Content](#writing-content) (18)
 - [📊 Analytics & Data](#analytics-data) (26)
-- [🗂 Productivity & Notes](#productivity-notes) (14)
+- [🗂 Productivity & Notes](#productivity-notes) (18)
 - [🔎 Search & Discovery](#search-discovery) (7)
-- [🎓 Education & Learning](#education-learning) (5)
+- [🎓 Education & Learning](#education-learning) (6)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (4)
 - [💰 Finance, Crypto & Payments](#finance-crypto-payments) (4)
-- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (9)
+- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (12)
 - [💬 Chatbots & Conversational](#chatbots-conversational) (4)
-- [👥 Social & Community](#social-community) (4)
+- [👥 Social & Community](#social-community) (5)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (2)
-- [✨ Everything Else](#everything-else) (52)
+- [✨ Everything Else](#everything-else) (54)
 
 ## 📣 Marketing, SEO & Sales
 
@@ -40,6 +40,10 @@
 - [Gro](https://thegro.ai) - When sales teams drown in data, Gro turns it into action.
 - [Zernio](https://zernio.com) - Build social media features at scale.
 - [Flint](https://www.tryflint.com/product/api-mcp) - Flint helps teams scale on-brand landing pages.
+- [Kipps AI](https://www.kipps.ai) - Kipps.AI is your all-in-one AI assistant for marketing, sales, and customer support. Build AI agents that capture leads, qualify prospects, answer customers, and automate workflows—without complex….
+- [RankSpot](https://www.rankspot.ai) - RankSpot is your fully automated AI agent that researches, writes, and publishes SEO articles to your blog daily - getting you cited in AI answers and ranked on Google.
+- [ZapDigits](https://www.zapdigits.com) - ZapDigits is a modern marketing dashboard and White-Label client reporting platform built for agencies, freelancers, and marketing teams that want clear insights without complexity.
+- [Inrō](https://www.inro.social/ph) - Inrō handles your Instagram DMs like a human would.
 
 ## 🤖 AI Agents & Assistants
 
@@ -129,6 +133,8 @@
 - [AgentMail](https://agentmail.to) - AgentMail gives every AI agent its own email inbox.
 - [Clarify](https://clarify.ai) - The autonomous CRM that updates fields, manages pipeline, and answers questions—so you can close more deals.
 - [OpenBox](https://www.openbox.ai) - OpenBox provides a trust platform for agentic AI, delivering runtime governance, cryptographic verification, and enterprise-grade compliance.
+- [Donely](https://donely.ai) - Deploy OpenClaw-powered AI employees with a shared Company Brain, multi-agent collaboration, observability, AI Repair, backup inference, & isolated infrastructure built for long-running reliability.
+- [GitHired](https://www.githired.tech) - GitHired lets you create autonomous hiring forms that instantly rank your applicants based on what they've actually built, not what they say they can build.
 
 ## 💻 Coding & Developer Tools
 
@@ -227,6 +233,12 @@
 - [Atomic](https://atomicapp.ai) - Atomic is a self-hosted, AI-native knowledge base.
 - [Claras](https://www.meetclaras.com) - Transcribe YouTube Videos & Chat with them using AI – Claras is a Chrome extension that turns any YouTube video into a chat experience.
 - [Claudoscope](https://claudoscope.com) - Free open-source macOS menu bar app for Claude Code.
+- [KushoAI](https://kusho.ai) - KushoAI transforms your inputs into a comprehensive ready-to-run test suite.
+- [Contral](https://contral.ai) - Contral is the agent that teaches you while you build.
+- [Fabraix](https://fabraix.com) - AI agents fail in ways traditional software doesn't.
+- [Staff.rip](https://staff.rip) - Use AI anywhere in your codebase — frontend, backend, microservices, infra.
+- [Omi A11Y](https://omi-a11y.pages.dev) - Omi A11Y is a free Chrome extension that scans any webpage for WCAG 2.1 A and AA violations right in your browser. No sign-up, no build pipeline changes, just click the extension and instantly see….
+- [BugDrop](https://bugdrop.dev) - Free, open source website feedback widget.
 
 ## 🎙 Audio, Voice & Music
 
@@ -259,6 +271,7 @@
 - [Faahh](https://www.faahhh.fun) - Faahhh is a tiny focus app that interrupts you the moment you drift.
 - [Syncly (YC W23)](https://syncly.app) - Syncly is an AI-native social listening platform that analyzes social content from text to video.
 - [Liinks](https://liinks.co) - Gather all your links, social media, music, videos, and more in one place.
+- [Pop](https://getpop.chat) - Pop makes voice notes first class in everyday messaging.
 
 ## 🎬 Video & Animation
 
@@ -277,6 +290,7 @@
 - [Capso](https://www.awesomemacapp.com/app/capso) - Capso is a free, open-source screenshot and screen recording app for Mac (Apple Silicon), built entirely in Swift. ✨ Features: •.
 - [Osintir](https://osintir.com) - Osintir protects your images and videos with invisible AI fingerprints and cryptographic proof, detecting deepfakes, unauthorized use, and.
 - [ScreenSmooth](https://screensmooth.com) - ScreenSmooth makes your mouse movement smooth, automatically zooms in on clicks, applies cinematic motion blur to all the animations, and.
+- [Fluent Frame](https://podclips.pro) - You're shipping 3 updates a week, but marketing each feature eats hours of your time - or thousands of dollars at an agency.
 
 ## 🎨 Image, Design & 3D
 
@@ -375,6 +389,10 @@
 - [Nomie](https://mynomie.com) - We’re building an AI wellness app that transforms doomscrolling into intentional self-care.
 - [send/links](https://sendlinks.app) - Save links from your browser.
 - [Ember - AI Calorie Counter](https://tryember.eu) - Ember, the AI calorie tracker that works from a simple meal description.
+- [SuperIsland](https://dynamicisland.app) - Dynamic Island brings iOS-style live activities to macOS.
+- [Operations](https://operations.studionope.nl) - Most new tab extensions show you the weather.
+- [kuku](https://kuku.mom) - Kuku is a truly native, local-first markdown editor for macOS — built with Tauri, not Electron.
+- [Manuscripts.app](https://manuscripts-app.com) - Manuscripts is a Mac app for academics who've outgrown the spreadsheet.
 
 ## 🔎 Search & Discovery
 
@@ -393,6 +411,7 @@
 - [Memory Tags](https://apps.apple.com/be/app/flash-cards-maker-memory-tags/id1551145454) - Most flashcard apps make you do too much work before you learn anything.
 - [Build Check](https://build-check.com) - A free quiz for outsiders and vibe coders.
 - [B150](https://b150.ai) - The professional network reimagined for Gen AI builders; where creators connect, learn, and launch real products together.
+- [How AI-pilled are you?](https://www.ai-pilled.com) - The P9 AI Fluency Index gives you an explainable grade in ~12 minutes, along with clear recommendations on how to reach the next level.
 
 ## 🩺 Health, Fitness & Wellness
 
@@ -419,6 +438,9 @@
 - [Hookdeck](https://hookdeck.com) - Reliable infrastructure to work with webhooks and external events — without managing it yourself.
 - [Notte](https://www.notte.cc) - One platform to build and deploy enterprise-grade browser agents.
 - [Mesh LLM](https://www.anarchai.org) - Turn spare capacity into an auto-configured p2p inference cloud.
+- [ClawTick](https://clawtick.com) - ClawTick is a cloud scheduler built specifically for AI agents.
+- [Ghost](https://useghost.sh) - Open-source dedicated game server platform.
+- [Nylas](http://www.nylas.com) - Nylas is the API that lets you integrate with Gmail, Microsoft, IMAP, Zoom, and 250+ mail, calendar and meeting providers in 5 minutes.
 
 ## 💬 Chatbots & Conversational
 
@@ -433,6 +455,7 @@
 - [FeatDrop](https://featdrop.com) - The best product teams build everything in public.
 - [Morsel](https://apps.apple.com/us/app/morsel-cook-share-eat/id6756082004) - Morsel is the social networking app for cooking.
 - [Show Me a Leaderboard](https://showmealeaderboard.com) - Show Me a Leaderboard helps companies, nonprofits and friend groups easily launch friendly (or intense!) competitions, with custom.
+- [Flare](https://heyflare.app) - Flare is an AI-native voice-first social app for Gen Z.
 
 ## 🛒 E-commerce & Retail
 
@@ -493,6 +516,8 @@
 - [Mailero](https://mailero.com) - Most helpdesks are overkill.
 - [StampCut](https://www.stampcutapp.com) - The world is full of stamps.
 - [GeneratePPT](https://www.generateppt.com) - The anti bloat presentation tool.
+- [Sutra](https://www.heysutra.com) - Manufacturing engineers spend hours pushing changes through PLM systems.
+- [Prism](https://tryprism.com) - Most recruiting agencies start with who they already know.
 
 ## Contributing
 
