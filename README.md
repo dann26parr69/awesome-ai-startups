@@ -349,7 +349,6 @@
 
 ## 📊 Analytics & Data
 
-- [Calculeaf](https://calculeaf.com) - Web-based engineering calculation worksheets with AI formula generation.
 - [Open Wearables](https://openwearables.io) - Build personalized health products with one API for every wearable.
 - [FuseAI](https://tryfuse.ai) - Sales was broken. We fixed it. The average team currently uses 5-10 tools to run outbound. Fuse is the AI-native platform where teams can.
 - [Moonshot](https://github.com/aaronoleary/artemis-ii-lunar-countdown) - A macOS menu bar app built with SwiftUI that tracks NASA’s Artemis II mission in real time, showing mission phases, countdowns to key.
@@ -376,6 +375,7 @@
 - [Safebooks AI](https://safebooks.ai) - Safebooks automates reconciliation, validation, policy enforcement, workpapers, and close workflows with AI agents grounded in your.
 - [Dreambase.com](https://dreambase.com) - Dreambase is AI-native analytics for Supabase, powered by Skills.
 - [1% Better](https://1better.today) - The only habit tracker built around the mathematics of compounding.
+- [Calculeaf](https://calculeaf.com) - Web-based engineering calculation worksheets with AI formula generation.
 
 ## 🗂 Productivity & Notes
 
