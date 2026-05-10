@@ -349,6 +349,7 @@
 
 ## 📊 Analytics & Data
 
+- [Calculeaf](https://calculeaf.com) - Web-based engineering calculation worksheets with AI formula generation.
 - [Open Wearables](https://openwearables.io) - Build personalized health products with one API for every wearable.
 - [FuseAI](https://tryfuse.ai) - Sales was broken. We fixed it. The average team currently uses 5-10 tools to run outbound. Fuse is the AI-native platform where teams can.
 - [Moonshot](https://github.com/aaronoleary/artemis-ii-lunar-countdown) - A macOS menu bar app built with SwiftUI that tracks NASA’s Artemis II mission in real time, showing mission phases, countdowns to key.
