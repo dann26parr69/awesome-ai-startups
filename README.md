@@ -5,19 +5,19 @@
 ## Contents
 - [📣 Marketing, SEO & Sales](#marketing-seo-sales) (20)
 - [🤖 AI Agents & Assistants](#ai-agents-assistants) (88)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (101)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (103)
 - [🎙 Audio, Voice & Music](#audio-voice-music) (30)
 - [🎬 Video & Animation](#video-animation) (16)
-- [🎨 Image, Design & 3D](#image-design-3d) (28)
+- [🎨 Image, Design & 3D](#image-design-3d) (29)
 - [✍️ Writing & Content](#writing-content) (18)
 - [📊 Analytics & Data](#analytics-data) (26)
-- [🗂 Productivity & Notes](#productivity-notes) (18)
+- [🗂 Productivity & Notes](#productivity-notes) (19)
 - [🔎 Search & Discovery](#search-discovery) (7)
 - [🎓 Education & Learning](#education-learning) (6)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (4)
-- [💰 Finance, Crypto & Payments](#finance-crypto-payments) (4)
+- [💰 Finance, Crypto & Payments](#finance-crypto-payments) (5)
 - [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (12)
-- [💬 Chatbots & Conversational](#chatbots-conversational) (4)
+- [💬 Chatbots & Conversational](#chatbots-conversational) (5)
 - [👥 Social & Community](#social-community) (5)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (2)
 - [✨ Everything Else](#everything-else) (54)
@@ -239,6 +239,8 @@
 - [Staff.rip](https://staff.rip) - Use AI anywhere in your codebase — frontend, backend, microservices, infra.
 - [Omi A11Y](https://omi-a11y.pages.dev) - Omi A11Y is a free Chrome extension that scans any webpage for WCAG 2.1 A and AA violations right in your browser. No sign-up, no build pipeline changes, just click the extension and instantly see….
 - [BugDrop](https://bugdrop.dev) - Free, open source website feedback widget.
+- [Tailgrids](https://tailgrids.com) - Ship production-ready websites and web apps faster with an open-source React + Figma UI system.
+- [AgentPeek](https://agentpeek.app) - Monitor Claude Code and Codex from the Mac notch.
 
 ## 🎙 Audio, Voice & Music
 
@@ -322,6 +324,7 @@
 - [Outtalent](https://outtalent.com) - Outtalent is a mentorship, training, and community platform that prepares engineers for careers at leading tech companies such as Google,.
 - [Ultramock](https://ultramock.io) - Create stunning, cinematic device mockups directly in your browser.
 - [Klick AI Camera Assistant](https://apps.apple.com/us/app/klick-1-ai-camera-assistant/id6749798728) - Klick is an AI camera that helps you shoot better photos instantly.
+- [Adject](https://adject.ai) - Generating images is easy.
 
 ## ✍️ Writing & Content
 
@@ -393,6 +396,7 @@
 - [Operations](https://operations.studionope.nl) - Most new tab extensions show you the weather.
 - [kuku](https://kuku.mom) - Kuku is a truly native, local-first markdown editor for macOS — built with Tauri, not Electron.
 - [Manuscripts.app](https://manuscripts-app.com) - Manuscripts is a Mac app for academics who've outgrown the spreadsheet.
+- [Keel](https://keel-labs.github.io) - Keel is a local-first desktop app for macOS and Windows that captures what matters from your conversations into plain markdown files on your disk.
 
 ## 🔎 Search & Discovery
 
@@ -426,6 +430,7 @@
 - [DebtMeltPro](https://debtmeltpro.com/tools/debt-payoff) - DebtMeltPro is a free online debt payoff calculator that helps you compare Snowball, Avalanche, and Hybrid strategies in real time.
 - [Audos.com](https://www.audos.com) - We’re serving 10k+ AI-native solopreneurs and investing initial checks of up to $100k for 0% equity.
 - [FlyCode: Failed payments for Stripe](https://www.flycode.com) - FlyCode's reads decline codes, optimizes retry timing, and switches to backup payment methods automatically.
+- [InvestorFinder](https://tools.crustdata.com/investorfinder) - Finally, real data on how every VC partner actually invests - founder backgrounds, universities and prior companies.
 
 ## 🛠 APIs, SDKs & Infrastructure
 
@@ -448,6 +453,7 @@
 - [AnyDrop](https://anydrop.org) - AnyDrop is a free, purely browser-based web app that connects your devices directly.
 - [XChat](https://apps.apple.com/us/app/xchat/id6760873038) - Chat with anyone on X in a private, focused space built for conversation.
 - [Upvotics](https://upvotics.com) - Upvotics is a competitive Intelligence and monitoring tool that tracks competitor website changes automatically and turns them into.
+- [LumiChats Offline](https://lumichats.com/docs) - Run powerful AI models entirely offline no internet, no GPU, no cloud.
 
 ## 👥 Social & Community
 
