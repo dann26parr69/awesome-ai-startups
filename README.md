@@ -375,6 +375,7 @@
 - [Safebooks AI](https://safebooks.ai) - Safebooks automates reconciliation, validation, policy enforcement, workpapers, and close workflows with AI agents grounded in your.
 - [Dreambase.com](https://dreambase.com) - Dreambase is AI-native analytics for Supabase, powered by Skills.
 - [1% Better](https://1better.today) - The only habit tracker built around the mathematics of compounding.
+- [Calculeaf](https://calculeaf.com) - Web-based engineering calculation worksheets with AI formula generation.
 
 ## 🗂 Productivity & Notes
 
