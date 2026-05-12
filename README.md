@@ -3,24 +3,24 @@
 > Bootstrapped, pre-seed, and angel-funded AI products built by independent founders.
 
 ## Contents
-- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (20)
+- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (22)
 - [🤖 AI Agents & Assistants](#ai-agents-assistants) (88)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (103)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (106)
 - [🎙 Audio, Voice & Music](#audio-voice-music) (30)
 - [🎬 Video & Animation](#video-animation) (16)
-- [🎨 Image, Design & 3D](#image-design-3d) (29)
+- [🎨 Image, Design & 3D](#image-design-3d) (30)
 - [✍️ Writing & Content](#writing-content) (18)
-- [📊 Analytics & Data](#analytics-data) (26)
+- [📊 Analytics & Data](#analytics-data) (27)
 - [🗂 Productivity & Notes](#productivity-notes) (19)
 - [🔎 Search & Discovery](#search-discovery) (7)
 - [🎓 Education & Learning](#education-learning) (6)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (4)
-- [💰 Finance, Crypto & Payments](#finance-crypto-payments) (5)
-- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (12)
+- [💰 Finance, Crypto & Payments](#finance-crypto-payments) (6)
+- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (16)
 - [💬 Chatbots & Conversational](#chatbots-conversational) (5)
 - [👥 Social & Community](#social-community) (5)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (2)
-- [✨ Everything Else](#everything-else) (54)
+- [✨ Everything Else](#everything-else) (57)
 
 ## 📣 Marketing, SEO & Sales
 
@@ -44,6 +44,8 @@
 - [RankSpot](https://www.rankspot.ai) - RankSpot is your fully automated AI agent that researches, writes, and publishes SEO articles to your blog daily - getting you cited in AI answers and ranked on Google.
 - [ZapDigits](https://www.zapdigits.com) - ZapDigits is a modern marketing dashboard and White-Label client reporting platform built for agencies, freelancers, and marketing teams that want clear insights without complexity.
 - [Inrō](https://www.inro.social/ph) - Inrō handles your Instagram DMs like a human would.
+- [Scroll Launch](https://www.scrolllaunch.com) - ScrollLaunch is the best Product Hunt alternative for indie makers and SaaS founders.
+- [articuler.ai](https://www.articuler.ai) - Networking is broken because keyword search is broken.
 
 ## 🤖 AI Agents & Assistants
 
@@ -241,6 +243,9 @@
 - [BugDrop](https://bugdrop.dev) - Free, open source website feedback widget.
 - [Tailgrids](https://tailgrids.com) - Ship production-ready websites and web apps faster with an open-source React + Figma UI system.
 - [AgentPeek](https://agentpeek.app) - Monitor Claude Code and Codex from the Mac notch.
+- [Better Sol](https://better-sol.fun) - Better Sol lets you write Solana programs entirely in TypeScript with zero boilerplate.
+- [Warp](https://warp.dev) - The open-source agentic development environment, born out of the terminal.
+- [GraphBit](https://graphbit.ai) - GraphBit is a high-performance AI agent framework with a Rust core and seamless Python bindings.
 
 ## 🎙 Audio, Voice & Music
 
@@ -325,6 +330,7 @@
 - [Ultramock](https://ultramock.io) - Create stunning, cinematic device mockups directly in your browser.
 - [Klick AI Camera Assistant](https://apps.apple.com/us/app/klick-1-ai-camera-assistant/id6749798728) - Klick is an AI camera that helps you shoot better photos instantly.
 - [Adject](https://adject.ai) - Generating images is easy.
+- [MiroMiro](https://miromiro.app) - Stop rebuilding designs from screenshots.
 
 ## ✍️ Writing & Content
 
@@ -376,6 +382,7 @@
 - [Dreambase.com](https://dreambase.com) - Dreambase is AI-native analytics for Supabase, powered by Skills.
 - [1% Better](https://1better.today) - The only habit tracker built around the mathematics of compounding.
 - [Calculeaf](https://calculeaf.com) - Web-based engineering calculation worksheets with AI formula generation.
+- [Known Agents](https://knownagents.com) - Known Agents is "Google Analytics for bots".
 
 ## 🗂 Productivity & Notes
 
@@ -432,6 +439,7 @@
 - [Audos.com](https://www.audos.com) - We’re serving 10k+ AI-native solopreneurs and investing initial checks of up to $100k for 0% equity.
 - [FlyCode: Failed payments for Stripe](https://www.flycode.com) - FlyCode's reads decline codes, optimizes retry timing, and switches to backup payment methods automatically.
 - [InvestorFinder](https://tools.crustdata.com/investorfinder) - Finally, real data on how every VC partner actually invests - founder backgrounds, universities and prior companies.
+- [Plouton AI](https://plouton.co) - Plouton AI uses browser-based AI agents to run accounts payable, reconciliations, and close workflows inside tools like SAP, NetSuite, and QuickBooks without API projects.
 
 ## 🛠 APIs, SDKs & Infrastructure
 
@@ -447,6 +455,10 @@
 - [ClawTick](https://clawtick.com) - ClawTick is a cloud scheduler built specifically for AI agents.
 - [Ghost](https://useghost.sh) - Open-source dedicated game server platform.
 - [Nylas](http://www.nylas.com) - Nylas is the API that lets you integrate with Gmail, Microsoft, IMAP, Zoom, and 250+ mail, calendar and meeting providers in 5 minutes.
+- [Suprbox](https://www.suprbox.com) - Suprbox is a policy-gated vault for the data your AI agents read.
+- [Web Speed](https://getwebspeed.io) - Web Speed is the logic layer for web agents.
+- [Weavable](https://weavable.ai) - Weavable gives AI agents persistent, live work context from the tools your business already runs on.
+- [ClawSecure](https://www.clawsecure.ai) - ClawSecure is CrowdStrike for OpenClaw AI agents.
 
 ## 💬 Chatbots & Conversational
 
@@ -525,6 +537,9 @@
 - [GeneratePPT](https://www.generateppt.com) - The anti bloat presentation tool.
 - [Sutra](https://www.heysutra.com) - Manufacturing engineers spend hours pushing changes through PLM systems.
 - [Prism](https://tryprism.com) - Most recruiting agencies start with who they already know.
+- [Hoogly.ai](https://hoogly.ai) - Traditional engagement surveys are slow, generic, and rarely lead to action.
+- [Genpire](https://genpire.com) - Most AI stops at the idea.
+- [OpenJobs AI](https://www.openjobs-ai.com) - OpenJobs AI is an end-to-end autonomous AI recruitment platform, powered by an AI agent named Mira at its core, capable of automating the entire recruitment process around the clock — from….
 
 ## Contributing
 
