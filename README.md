@@ -436,6 +436,7 @@
 - [Build Check](https://build-check.com) - A free quiz for outsiders and vibe coders.
 - [B150](https://b150.ai) - The professional network reimagined for Gen AI builders; where creators connect, learn, and launch real products together.
 - [How AI-pilled are you?](https://www.ai-pilled.com) - The P9 AI Fluency Index gives you an explainable grade in ~12 minutes, along with clear recommendations on how to reach the next level.
+- [Pickurai](https://pickurai.ai) - AI tool recommender that returns one best match, two alternatives, and one indie pick from a six-question quiz under 60 seconds.
 
 ## 🩺 Health, Fitness & Wellness
 
