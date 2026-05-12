@@ -243,6 +243,7 @@
 - [BugDrop](https://bugdrop.dev) - Free, open source website feedback widget.
 - [Tailgrids](https://tailgrids.com) - Ship production-ready websites and web apps faster with an open-source React + Figma UI system.
 - [AgentPeek](https://agentpeek.app) - Monitor Claude Code and Codex from the Mac notch.
+- [Hlin](https://github.com/rosettastone0501-cpu/Hlin) - A CLI to keep you safe from agent command execution and boost productivity.
 - [Better Sol](https://better-sol.fun) - Better Sol lets you write Solana programs entirely in TypeScript with zero boilerplate.
 - [Warp](https://warp.dev) - The open-source agentic development environment, born out of the terminal.
 - [GraphBit](https://graphbit.ai) - GraphBit is a high-performance AI agent framework with a Rust core and seamless Python bindings.
