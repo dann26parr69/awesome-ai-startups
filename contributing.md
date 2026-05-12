@@ -5,11 +5,13 @@ founders and small teams.
 
 ## Adding a Startup
 
-Add the entry under the most relevant category in `README.md` using this format:
+Append the entry to the end of the most relevant category section in `README.md` using this format:
 
 ```md
 - [Name](https://product.url) - One-line tagline.
 ```
+
+Do not reorder, rearrange, or insert entries in the middle of a section — new tools must go at the end of the section.
 
 ## Inclusion Criteria
 
