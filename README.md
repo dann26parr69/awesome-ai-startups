@@ -138,7 +138,6 @@
 
 ## 💻 Coding & Developer Tools
 
-- [Hlin](https://github.com/rosettastone0501-cpu/Hlin) - A CLI to keep you safe from agent command execution and boost productivity.
 - [Ovren](https://www.ovren.ai) - Every team has a backlog full of tasks that never make it into a sprint.
 - [Croct](https://croct.com) - Croct is a conversion optimization platform that includes a user profile explorer, audience segmentation, content personalization, AB.
 - [SigmaMind AI](https://sigmamind.ai) - SigmaMind AI is a YC-backed conversational AI platform that lets you build, test, and deploy voice, chat, and email agents for sales and.
@@ -242,6 +241,7 @@
 - [BugDrop](https://bugdrop.dev) - Free, open source website feedback widget.
 - [Tailgrids](https://tailgrids.com) - Ship production-ready websites and web apps faster with an open-source React + Figma UI system.
 - [AgentPeek](https://agentpeek.app) - Monitor Claude Code and Codex from the Mac notch.
+- [Hlin](https://github.com/rosettastone0501-cpu/Hlin) - A CLI to keep you safe from agent command execution and boost productivity.
 
 ## 🎙 Audio, Voice & Music
 
