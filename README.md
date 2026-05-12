@@ -138,6 +138,7 @@
 
 ## 💻 Coding & Developer Tools
 
+- [Hlin](https://github.com/rosettastone0501-cpu/Hlin) - A CLI to keep you safe from agent command execution and boost productivity.
 - [Ovren](https://www.ovren.ai) - Every team has a backlog full of tasks that never make it into a sprint.
 - [Croct](https://croct.com) - Croct is a conversion optimization platform that includes a user profile explorer, audience segmentation, content personalization, AB.
 - [SigmaMind AI](https://sigmamind.ai) - SigmaMind AI is a YC-backed conversational AI platform that lets you build, test, and deploy voice, chat, and email agents for sales and.
