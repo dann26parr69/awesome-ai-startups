@@ -3,24 +3,24 @@
 > Bootstrapped, pre-seed, and angel-funded AI products built by independent founders.
 
 ## Contents
-- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (22)
+- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (23)
 - [🤖 AI Agents & Assistants](#ai-agents-assistants) (88)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (106)
-- [🎙 Audio, Voice & Music](#audio-voice-music) (30)
-- [🎬 Video & Animation](#video-animation) (16)
-- [🎨 Image, Design & 3D](#image-design-3d) (30)
-- [✍️ Writing & Content](#writing-content) (18)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (108)
+- [🎙 Audio, Voice & Music](#audio-voice-music) (32)
+- [🎬 Video & Animation](#video-animation) (17)
+- [🎨 Image, Design & 3D](#image-design-3d) (32)
+- [✍️ Writing & Content](#writing-content) (19)
 - [📊 Analytics & Data](#analytics-data) (27)
-- [🗂 Productivity & Notes](#productivity-notes) (19)
+- [🗂 Productivity & Notes](#productivity-notes) (21)
 - [🔎 Search & Discovery](#search-discovery) (7)
 - [🎓 Education & Learning](#education-learning) (6)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (4)
-- [💰 Finance, Crypto & Payments](#finance-crypto-payments) (6)
-- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (16)
-- [💬 Chatbots & Conversational](#chatbots-conversational) (5)
+- [💰 Finance, Crypto & Payments](#finance-crypto-payments) (7)
+- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (17)
+- [💬 Chatbots & Conversational](#chatbots-conversational) (6)
 - [👥 Social & Community](#social-community) (5)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (2)
-- [✨ Everything Else](#everything-else) (57)
+- [✨ Everything Else](#everything-else) (58)
 
 ## 📣 Marketing, SEO & Sales
 
@@ -46,6 +46,7 @@
 - [Inrō](https://www.inro.social/ph) - Inrō handles your Instagram DMs like a human would.
 - [Scroll Launch](https://www.scrolllaunch.com) - ScrollLaunch is the best Product Hunt alternative for indie makers and SaaS founders.
 - [articuler.ai](https://www.articuler.ai) - Networking is broken because keyword search is broken.
+- [EmailTemple](https://emailtemple.com) - Most AI email tools spit out generic HTML you still have to wrestle into Mailchimp.
 
 ## 🤖 AI Agents & Assistants
 
@@ -247,6 +248,8 @@
 - [Better Sol](https://better-sol.fun) - Better Sol lets you write Solana programs entirely in TypeScript with zero boilerplate.
 - [Warp](https://warp.dev) - The open-source agentic development environment, born out of the terminal.
 - [GraphBit](https://graphbit.ai) - GraphBit is a high-performance AI agent framework with a Rust core and seamless Python bindings.
+- [Hopper](https://www.hypercubic.ai/hopper) - Hopper is the first agentic development environment for the mainframe.
+- [Vexilo](https://vexilo.app) - Most Claude Code users discover 10% of the ecosystem — by accident.
 
 ## 🎙 Audio, Voice & Music
 
@@ -280,6 +283,8 @@
 - [Syncly (YC W23)](https://syncly.app) - Syncly is an AI-native social listening platform that analyzes social content from text to video.
 - [Liinks](https://liinks.co) - Gather all your links, social media, music, videos, and more in one place.
 - [Pop](https://getpop.chat) - Pop makes voice notes first class in everyday messaging.
+- [MusicMinutes](https://www.musicminutes.co) - For independent artists to get the contacts for 24,000 vetted Spotify playlists so you can submit/pitch your music direct and keep your network forever!.
+- [Synci](https://app.synci.ai/app) - Synci is an all-in-one AI soundtrack platform built for content creators.
 
 ## 🎬 Video & Animation
 
@@ -299,6 +304,7 @@
 - [Osintir](https://osintir.com) - Osintir protects your images and videos with invisible AI fingerprints and cryptographic proof, detecting deepfakes, unauthorized use, and.
 - [ScreenSmooth](https://screensmooth.com) - ScreenSmooth makes your mouse movement smooth, automatically zooms in on clicks, applies cinematic motion blur to all the animations, and.
 - [Fluent Frame](https://podclips.pro) - You're shipping 3 updates a week, but marketing each feature eats hours of your time - or thousands of dollars at an agency.
+- [ContentPilots](https://contentpilots.net) - Upload one video and ContentPilots AI cuts it into countless viral Shorts, Reels & TikToks — automatically.
 
 ## 🎨 Image, Design & 3D
 
@@ -332,6 +338,8 @@
 - [Klick AI Camera Assistant](https://apps.apple.com/us/app/klick-1-ai-camera-assistant/id6749798728) - Klick is an AI camera that helps you shoot better photos instantly.
 - [Adject](https://adject.ai) - Generating images is easy.
 - [MiroMiro](https://miromiro.app) - Stop rebuilding designs from screenshots.
+- [Klyxshot](https://klyxshot.com) - A Windows screenshot tool that captures, edits, and understands.
+- [Seer Platform](https://seerplatform.dev) - Seer is built for inventors, offering an AI-powered framework to develop physical products.
 
 ## ✍️ Writing & Content
 
@@ -353,6 +361,7 @@
 - [Stanley For 𝕏](https://x.getstanley.ai) - The world’s first AI Head of Content for Twitter that does more than just “write tweets”.
 - [Knowzilla](https://knowzilla.eu/en/promo-landing-producthunt) - Knowzilla gives sales teams real-time answers during live calls, so they can handle tough questions, overcome objections, and stop losing.
 - [Mac Pet](https://mac-pet.com) - Transform your menu bar — or MacBook notch — into a cozy home for an adorable pixel pet that helps you stay focused.
+- [Bouquin & Ink](https://www.bouquinandink.com) - Bouquin & Ink is a manuscript editor built for writers.
 
 ## 📊 Analytics & Data
 
@@ -406,6 +415,8 @@
 - [kuku](https://kuku.mom) - Kuku is a truly native, local-first markdown editor for macOS — built with Tauri, not Electron.
 - [Manuscripts.app](https://manuscripts-app.com) - Manuscripts is a Mac app for academics who've outgrown the spreadsheet.
 - [Keel](https://keel-labs.github.io) - Keel is a local-first desktop app for macOS and Windows that captures what matters from your conversations into plain markdown files on your disk.
+- [nocal](https://nocal.app) - nocal turns your week into an interactive workspace, unifying notes, tasks, and calendar.
+- [TabGroup Vault](https://tabgroupvault.com) - TabGroup Vault keeps every Chrome tab group safe, searchable, and ready to restore.
 
 ## 🔎 Search & Discovery
 
@@ -441,6 +452,7 @@
 - [FlyCode: Failed payments for Stripe](https://www.flycode.com) - FlyCode's reads decline codes, optimizes retry timing, and switches to backup payment methods automatically.
 - [InvestorFinder](https://tools.crustdata.com/investorfinder) - Finally, real data on how every VC partner actually invests - founder backgrounds, universities and prior companies.
 - [Plouton AI](https://plouton.co) - Plouton AI uses browser-based AI agents to run accounts payable, reconciliations, and close workflows inside tools like SAP, NetSuite, and QuickBooks without API projects.
+- [Kelviq](https://www.kelviq.com) - Kelviq is the complete monetization platform for SaaS, AI, and digital products.
 
 ## 🛠 APIs, SDKs & Infrastructure
 
@@ -460,6 +472,7 @@
 - [Web Speed](https://getwebspeed.io) - Web Speed is the logic layer for web agents.
 - [Weavable](https://weavable.ai) - Weavable gives AI agents persistent, live work context from the tools your business already runs on.
 - [ClawSecure](https://www.clawsecure.ai) - ClawSecure is CrowdStrike for OpenClaw AI agents.
+- [DeepFrame](https://deepframe.xyz) - DeepFrame — a luxury security studio running authorized deep pentests for fast-moving web apps.
 
 ## 💬 Chatbots & Conversational
 
@@ -468,6 +481,7 @@
 - [XChat](https://apps.apple.com/us/app/xchat/id6760873038) - Chat with anyone on X in a private, focused space built for conversation.
 - [Upvotics](https://upvotics.com) - Upvotics is a competitive Intelligence and monitoring tool that tracks competitor website changes automatically and turns them into.
 - [LumiChats Offline](https://lumichats.com/docs) - Run powerful AI models entirely offline no internet, no GPU, no cloud.
+- [Auvylo](https://auvylo.com/product-hunt) - Auvylo turns Four Pillars and birth charts into AI personas you can talk to.
 
 ## 👥 Social & Community
 
@@ -541,6 +555,7 @@
 - [Hoogly.ai](https://hoogly.ai) - Traditional engagement surveys are slow, generic, and rarely lead to action.
 - [Genpire](https://genpire.com) - Most AI stops at the idea.
 - [OpenJobs AI](https://www.openjobs-ai.com) - OpenJobs AI is an end-to-end autonomous AI recruitment platform, powered by an AI agent named Mira at its core, capable of automating the entire recruitment process around the clock — from….
+- [FileFlan](https://fileflan.com) - Phone browser to command line, Apple to Android, any device to any device.
 
 ## Contributing
 
