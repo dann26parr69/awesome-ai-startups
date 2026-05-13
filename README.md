@@ -344,6 +344,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [MiroMiro](https://miromiro.app) - Stop rebuilding designs from screenshots.
 - [Klyxshot](https://klyxshot.com) - A Windows screenshot tool that captures, edits, and understands.
 - [Seer Platform](https://seerplatform.dev) - Seer is built for inventors, offering an AI-powered framework to develop physical products.
+- [TinyTools](https://tinytools-smoky.vercel.app) - Free browser-based AI background remover that runs locally in-browser (WASM), bundled with open-source utilities for indie makers.
 
 ## ✍️ Writing & Content
 
