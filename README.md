@@ -1,6 +1,10 @@
 # Awesome AI Startups [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> Bootstrapped, pre-seed, and angel-funded AI products built by independent founders.
+> A curated directory of AI startups built by independent founders — bootstrapped, pre-seed, and angel-funded products from outside the big AI labs.
+
+The goal: make useful indie AI products easier to find, share, and support.
+
+**Building one?** Add your startup by opening a PR — see [contributing.md](contributing.md) for the format and inclusion criteria.
 
 ## Contents
 - [📣 Marketing, SEO & Sales](#marketing-seo-sales) (23)
