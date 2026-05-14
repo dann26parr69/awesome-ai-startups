@@ -7,20 +7,20 @@ The goal: make useful indie AI products easier to find, share, and support.
 **Building one?** Add your startup by opening a PR — see [contributing.md](contributing.md) for the format and inclusion criteria.
 
 ## Contents
-- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (25)
-- [🤖 AI Agents & Assistants](#ai-agents-assistants) (89)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (110)
+- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (27)
+- [🤖 AI Agents & Assistants](#ai-agents-assistants) (91)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (112)
 - [🎙 Audio, Voice & Music](#audio-voice-music) (33)
-- [🎬 Video & Animation](#video-animation) (17)
+- [🎬 Video & Animation](#video-animation) (18)
 - [🎨 Image, Design & 3D](#image-design-3d) (32)
 - [✍️ Writing & Content](#writing-content) (19)
 - [📊 Analytics & Data](#analytics-data) (27)
-- [🗂 Productivity & Notes](#productivity-notes) (25)
+- [🗂 Productivity & Notes](#productivity-notes) (26)
 - [🔎 Search & Discovery](#search-discovery) (8)
 - [🎓 Education & Learning](#education-learning) (6)
-- [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (4)
-- [💰 Finance, Crypto & Payments](#finance-crypto-payments) (8)
-- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (19)
+- [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (5)
+- [💰 Finance, Crypto & Payments](#finance-crypto-payments) (9)
+- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (21)
 - [💬 Chatbots & Conversational](#chatbots-conversational) (6)
 - [👥 Social & Community](#social-community) (5)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (2)
@@ -53,6 +53,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [EmailTemple](https://emailtemple.com) - Most AI email tools spit out generic HTML you still have to wrestle into Mailchimp.
 - [Blaze](https://blaze.ai) - Blaze 2.0 is the marketing solution for people who don't have time to do marketing. It learns your business, your audience, and your voice — then creates and manages your entire content strategy,….
 - [Frontdesk AI](https://myaifrontdesk.com) - Enter your website and get all the AI agents you need to grow your business.
+- [OptimizeGEO.ai](https://www.optimizegeo.ai) - OptimizeGEO helps brands win visibility, accuracy, and trust in AI answers.
+- [Pressmaster.ai](https://www.pressmaster.ai) - Amplify your intelligence with the world's first AI built for cognitive amplification.
 
 ## 🤖 AI Agents & Assistants
 
@@ -145,6 +147,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Donely](https://donely.ai) - Deploy OpenClaw-powered AI employees with a shared Company Brain, multi-agent collaboration, observability, AI Repair, backup inference, & isolated infrastructure built for long-running reliability.
 - [GitHired](https://www.githired.tech) - GitHired lets you create autonomous hiring forms that instantly rank your applicants based on what they've actually built, not what they say they can build.
 - [Pipali](https://pipali.ai) - Pipali is an AI coworker that lives on your computer.
+- [Asteroid](https://asteroid.ai) - Asteroid lets anyone easily build complex computer-use AI agents.
+- [Tendem by Toloka](https://tendem.ai) - Tendem is a platform where human experts and AI agents complete high-stakes tasks.
 
 ## 💻 Coding & Developer Tools
 
@@ -259,6 +263,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Vexilo](https://vexilo.app) - Most Claude Code users discover 10% of the ecosystem — by accident.
 - [Claudy](https://claudy.markg.app) - Claude Code is powerful, but juggling multiple projects in raw terminal tabs is a mess.
 - [Latitude](https://latitude.so) - Latitude is an observability and quality platform for AI agents.
+- [AutonomyAI](https://autonomyai.io) - AutonomyAI is the operating system for building in production and the first AI-powered platform for product teams.
+- [Raindrop](https://www.raindrop.ai) - Raindrop helps AI engineers discover issues in production agents, and build “self-healing” agents that propose and validate fixes automatically.
 
 ## 🎙 Audio, Voice & Music
 
@@ -315,6 +321,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [ScreenSmooth](https://screensmooth.com) - ScreenSmooth makes your mouse movement smooth, automatically zooms in on clicks, applies cinematic motion blur to all the animations, and.
 - [Fluent Frame](https://podclips.pro) - You're shipping 3 updates a week, but marketing each feature eats hours of your time - or thousands of dollars at an agency.
 - [ContentPilots](https://contentpilots.net) - Upload one video and ContentPilots AI cuts it into countless viral Shorts, Reels & TikToks — automatically.
+- [Edit Mind](https://edit-mind.com) - Built for content creators, video editors, journalists, and video production companies.
 
 ## 🎨 Image, Design & 3D
 
@@ -432,6 +439,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [SideNotes](https://www.apptorium.com/sidenotes) - SideNotes is a quick-access notes app that lives on the side of your screen.
 - [Liminary](https://liminary.io) - Liminary turns everything you’ve saved into working memory for AI.
 - [Memoket Gem](https://memoket.ai/pages/product-hunt) - We’re opening 50 free spots for our Founding Member Program for founders, SMB owners who want to try Memoket Gem early.
+- [Spellar AI](https://spellar.ai) - Elevate your online meetings with a native assistant that provides real-time tips, auto-generated summaries, and task extraction—without awkward bot joiners.
 
 ## 🔎 Search & Discovery
 
@@ -460,6 +468,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Gauntlet](https://gauntlet.bet) - Stake real money on fitness challenges.
 - [ZeroHuman.](https://zerohuman.inc) - Start or grow your business while you sleep.
 - [DogBase](https://dogbase.co) - DogBase is the AI-powered training and team management platform built for professional working dog teams — K9 SAR, law enforcement, dog.
+- [Naptick AI](https://launch.naptick.com) - Naptick is a smart bedside AI sleep companion designed for founders, professionals, light sleepers, and anyone struggling with nighttime stress or doomscrolling.
 
 ## 💰 Finance, Crypto & Payments
 
@@ -471,6 +480,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Plouton AI](https://plouton.co) - Plouton AI uses browser-based AI agents to run accounts payable, reconciliations, and close workflows inside tools like SAP, NetSuite, and QuickBooks without API projects.
 - [Kelviq](https://www.kelviq.com) - Kelviq is the complete monetization platform for SaaS, AI, and digital products.
 - [TipTap](https://tiptap.cx) - TipTap lets customers tip the support agents who helped them - directly, after a great interaction.
+- [Causo](http://causo.ai) - AI agents that book VC meetings for you + free resources and tools to power your fundraise.
 
 ## 🛠 APIs, SDKs & Infrastructure
 
@@ -493,6 +503,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [DeepFrame](https://deepframe.xyz) - DeepFrame — a luxury security studio running authorized deep pentests for fast-moving web apps.
 - [Whisper Internet Infra AI Context](https://whisper.security) - Whisper Internet Infrastructure AI Context is an MCP server that plugs into Claude or Cursor or any LLM in 2 minutes and gives your agent real-time BGP, DNS, WHOIS and threat-graph context.
 - [apideck](https://www.apideck.com/?+utm_source=Twitter) - Apideck is a unified API platform that lets B2B SaaS and Fintech companies connect to accounting, HRIS, and CRM software without building and maintaining each integration separately.
+- [Thesys](https://www.thesys.dev) - C1 by Thesys is a Generative UI API that augments LLMs to respond with interactive UI like charts, forms, cards, and more in real-time, instead of plain text.
+- [Theneo](https://theneo.io) - Theneo is an AI tool that generates Stripe-like API docs.
 
 ## 💬 Chatbots & Conversational
 
