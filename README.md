@@ -7,20 +7,20 @@ The goal: make useful indie AI products easier to find, share, and support.
 **Building one?** Add your startup by opening a PR — see [contributing.md](contributing.md) for the format and inclusion criteria.
 
 ## Contents
-- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (23)
-- [🤖 AI Agents & Assistants](#ai-agents-assistants) (88)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (108)
-- [🎙 Audio, Voice & Music](#audio-voice-music) (32)
+- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (25)
+- [🤖 AI Agents & Assistants](#ai-agents-assistants) (89)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (110)
+- [🎙 Audio, Voice & Music](#audio-voice-music) (33)
 - [🎬 Video & Animation](#video-animation) (17)
 - [🎨 Image, Design & 3D](#image-design-3d) (32)
 - [✍️ Writing & Content](#writing-content) (19)
 - [📊 Analytics & Data](#analytics-data) (27)
-- [🗂 Productivity & Notes](#productivity-notes) (21)
-- [🔎 Search & Discovery](#search-discovery) (7)
+- [🗂 Productivity & Notes](#productivity-notes) (25)
+- [🔎 Search & Discovery](#search-discovery) (8)
 - [🎓 Education & Learning](#education-learning) (6)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (4)
-- [💰 Finance, Crypto & Payments](#finance-crypto-payments) (7)
-- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (17)
+- [💰 Finance, Crypto & Payments](#finance-crypto-payments) (8)
+- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (19)
 - [💬 Chatbots & Conversational](#chatbots-conversational) (6)
 - [👥 Social & Community](#social-community) (5)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (2)
@@ -51,6 +51,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Scroll Launch](https://www.scrolllaunch.com) - ScrollLaunch is the best Product Hunt alternative for indie makers and SaaS founders.
 - [articuler.ai](https://www.articuler.ai) - Networking is broken because keyword search is broken.
 - [EmailTemple](https://emailtemple.com) - Most AI email tools spit out generic HTML you still have to wrestle into Mailchimp.
+- [Blaze](https://blaze.ai) - Blaze 2.0 is the marketing solution for people who don't have time to do marketing. It learns your business, your audience, and your voice — then creates and manages your entire content strategy,….
+- [Frontdesk AI](https://myaifrontdesk.com) - Enter your website and get all the AI agents you need to grow your business.
 
 ## 🤖 AI Agents & Assistants
 
@@ -142,6 +144,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [OpenBox](https://www.openbox.ai) - OpenBox provides a trust platform for agentic AI, delivering runtime governance, cryptographic verification, and enterprise-grade compliance.
 - [Donely](https://donely.ai) - Deploy OpenClaw-powered AI employees with a shared Company Brain, multi-agent collaboration, observability, AI Repair, backup inference, & isolated infrastructure built for long-running reliability.
 - [GitHired](https://www.githired.tech) - GitHired lets you create autonomous hiring forms that instantly rank your applicants based on what they've actually built, not what they say they can build.
+- [Pipali](https://pipali.ai) - Pipali is an AI coworker that lives on your computer.
 
 ## 💻 Coding & Developer Tools
 
@@ -254,6 +257,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [GraphBit](https://graphbit.ai) - GraphBit is a high-performance AI agent framework with a Rust core and seamless Python bindings.
 - [Hopper](https://www.hypercubic.ai/hopper) - Hopper is the first agentic development environment for the mainframe.
 - [Vexilo](https://vexilo.app) - Most Claude Code users discover 10% of the ecosystem — by accident.
+- [Claudy](https://claudy.markg.app) - Claude Code is powerful, but juggling multiple projects in raw terminal tabs is a mess.
+- [Latitude](https://latitude.so) - Latitude is an observability and quality platform for AI agents.
 
 ## 🎙 Audio, Voice & Music
 
@@ -289,6 +294,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Pop](https://getpop.chat) - Pop makes voice notes first class in everyday messaging.
 - [MusicMinutes](https://www.musicminutes.co) - For independent artists to get the contacts for 24,000 vetted Spotify playlists so you can submit/pitch your music direct and keep your network forever!.
 - [Synci](https://app.synci.ai/app) - Synci is an all-in-one AI soundtrack platform built for content creators.
+- [Snaply](https://snaply.ai) - Snaply is free and private AI app for Mac.
 
 ## 🎬 Video & Animation
 
@@ -422,6 +428,10 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Keel](https://keel-labs.github.io) - Keel is a local-first desktop app for macOS and Windows that captures what matters from your conversations into plain markdown files on your disk.
 - [nocal](https://nocal.app) - nocal turns your week into an interactive workspace, unifying notes, tasks, and calendar.
 - [TabGroup Vault](https://tabgroupvault.com) - TabGroup Vault keeps every Chrome tab group safe, searchable, and ready to restore.
+- [Plate](https://plate.to) - Plate is a fast, minimal project management tool for small teams.
+- [SideNotes](https://www.apptorium.com/sidenotes) - SideNotes is a quick-access notes app that lives on the side of your screen.
+- [Liminary](https://liminary.io) - Liminary turns everything you’ve saved into working memory for AI.
+- [Memoket Gem](https://memoket.ai/pages/product-hunt) - We’re opening 50 free spots for our Founding Member Program for founders, SMB owners who want to try Memoket Gem early.
 
 ## 🔎 Search & Discovery
 
@@ -432,6 +442,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Genrate.ai](https://genrate.ai) - Genrate does two things your reps can't do alone.
 - [tasteit](https://tasteit.me) - Nobody owns food as a social behavior.
 - [ClayHog](https://clayhog.com) - See what ChatGPT, Gemini, Perplexity, Claude & AI Overviews really say about your brand.
+- [WhoAmILookingFor](https://www.whoamilookingfor.com) - WhoAmILookingFor turns your LinkedIn connection CSVs into a private semantic search engine.
 
 ## 🎓 Education & Learning
 
@@ -459,6 +470,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [InvestorFinder](https://tools.crustdata.com/investorfinder) - Finally, real data on how every VC partner actually invests - founder backgrounds, universities and prior companies.
 - [Plouton AI](https://plouton.co) - Plouton AI uses browser-based AI agents to run accounts payable, reconciliations, and close workflows inside tools like SAP, NetSuite, and QuickBooks without API projects.
 - [Kelviq](https://www.kelviq.com) - Kelviq is the complete monetization platform for SaaS, AI, and digital products.
+- [TipTap](https://tiptap.cx) - TipTap lets customers tip the support agents who helped them - directly, after a great interaction.
 
 ## 🛠 APIs, SDKs & Infrastructure
 
@@ -479,6 +491,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Weavable](https://weavable.ai) - Weavable gives AI agents persistent, live work context from the tools your business already runs on.
 - [ClawSecure](https://www.clawsecure.ai) - ClawSecure is CrowdStrike for OpenClaw AI agents.
 - [DeepFrame](https://deepframe.xyz) - DeepFrame — a luxury security studio running authorized deep pentests for fast-moving web apps.
+- [Whisper Internet Infra AI Context](https://whisper.security) - Whisper Internet Infrastructure AI Context is an MCP server that plugs into Claude or Cursor or any LLM in 2 minutes and gives your agent real-time BGP, DNS, WHOIS and threat-graph context.
+- [apideck](https://www.apideck.com/?+utm_source=Twitter) - Apideck is a unified API platform that lets B2B SaaS and Fintech companies connect to accounting, HRIS, and CRM software without building and maintaining each integration separately.
 
 ## 💬 Chatbots & Conversational
 
