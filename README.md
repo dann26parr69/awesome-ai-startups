@@ -7,24 +7,24 @@ The goal: make useful indie AI products easier to find, share, and support.
 **Building one?** Add your startup by opening a PR — see [contributing.md](contributing.md) for the format and inclusion criteria.
 
 ## Contents
-- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (28)
-- [🤖 AI Agents & Assistants](#ai-agents-assistants) (91)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (112)
+- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (29)
+- [🤖 AI Agents & Assistants](#ai-agents-assistants) (92)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (113)
 - [🎙 Audio, Voice & Music](#audio-voice-music) (33)
 - [🎬 Video & Animation](#video-animation) (18)
-- [🎨 Image, Design & 3D](#image-design-3d) (32)
-- [✍️ Writing & Content](#writing-content) (19)
+- [🎨 Image, Design & 3D](#image-design-3d) (33)
+- [✍️ Writing & Content](#writing-content) (20)
 - [📊 Analytics & Data](#analytics-data) (27)
-- [🗂 Productivity & Notes](#productivity-notes) (26)
+- [🗂 Productivity & Notes](#productivity-notes) (28)
 - [🔎 Search & Discovery](#search-discovery) (8)
 - [🎓 Education & Learning](#education-learning) (6)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (5)
-- [💰 Finance, Crypto & Payments](#finance-crypto-payments) (9)
-- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (21)
+- [💰 Finance, Crypto & Payments](#finance-crypto-payments) (10)
+- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (23)
 - [💬 Chatbots & Conversational](#chatbots-conversational) (6)
 - [👥 Social & Community](#social-community) (5)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (2)
-- [✨ Everything Else](#everything-else) (58)
+- [✨ Everything Else](#everything-else) (60)
 
 ## 📣 Marketing, SEO & Sales
 
@@ -56,6 +56,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [OptimizeGEO.ai](https://www.optimizegeo.ai) - OptimizeGEO helps brands win visibility, accuracy, and trust in AI answers.
 - [Pressmaster.ai](https://www.pressmaster.ai) - Amplify your intelligence with the world's first AI built for cognitive amplification.
 - [ShipBoost](https://shipboost.io) - ShipBoost helps SaaS founders turn a launch into long-tail discovery with weekly launch boards and AI-ready product listings.
+- [Lensmor](https://www.lensmor.com) - Unlike generic contact databases, Lensmor starts with exhibitor data, helping teams discover relevant events, find exhibiting companies, identify decision-makers, reveal verified emails, and book….
 
 ## 🤖 AI Agents & Assistants
 
@@ -150,6 +151,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Pipali](https://pipali.ai) - Pipali is an AI coworker that lives on your computer.
 - [Asteroid](https://asteroid.ai) - Asteroid lets anyone easily build complex computer-use AI agents.
 - [Tendem by Toloka](https://tendem.ai) - Tendem is a platform where human experts and AI agents complete high-stakes tasks.
+- [OpenHuman](https://tinyhumans.ai/openhuman) - 90% of people who try AI agents give up.
 
 ## 💻 Coding & Developer Tools
 
@@ -266,6 +268,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Latitude](https://latitude.so) - Latitude is an observability and quality platform for AI agents.
 - [AutonomyAI](https://autonomyai.io) - AutonomyAI is the operating system for building in production and the first AI-powered platform for product teams.
 - [Raindrop](https://www.raindrop.ai) - Raindrop helps AI engineers discover issues in production agents, and build “self-healing” agents that propose and validate fixes automatically.
+- [Cline](https://cline.bot) - Cline’s recent launches, reviews, product updates, discussions, and more on Product Hunt.
 
 ## 🎙 Audio, Voice & Music
 
@@ -359,6 +362,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Klyxshot](https://klyxshot.com) - A Windows screenshot tool that captures, edits, and understands.
 - [Seer Platform](https://seerplatform.dev) - Seer is built for inventors, offering an AI-powered framework to develop physical products.
 - [TinyTools](https://tinytools-smoky.vercel.app) - Free browser-based AI background remover that runs locally in-browser (WASM), bundled with open-source utilities for indie makers.
+- [Agentic Website Builder 2.0 by Lokuma](https://lokuma.ai/website-builder) - Lokuma 2.0 is a design-aware agent harness for websites. Most AI builders can generate a first draft. But real sites need structure, taste, brand consistency, editing, publishing, forms, and….
 
 ## ✍️ Writing & Content
 
@@ -381,6 +385,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Knowzilla](https://knowzilla.eu/en/promo-landing-producthunt) - Knowzilla gives sales teams real-time answers during live calls, so they can handle tough questions, overcome objections, and stop losing.
 - [Mac Pet](https://mac-pet.com) - Transform your menu bar — or MacBook notch — into a cozy home for an adorable pixel pet that helps you stay focused.
 - [Bouquin & Ink](https://www.bouquinandink.com) - Bouquin & Ink is a manuscript editor built for writers.
+- [Riffly](https://tryriffly.app) - Riffly is an AI presentation builder you talk to instead of click through.
 
 ## 📊 Analytics & Data
 
@@ -441,6 +446,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Liminary](https://liminary.io) - Liminary turns everything you’ve saved into working memory for AI.
 - [Memoket Gem](https://memoket.ai/pages/product-hunt) - We’re opening 50 free spots for our Founding Member Program for founders, SMB owners who want to try Memoket Gem early.
 - [Spellar AI](https://spellar.ai) - Elevate your online meetings with a native assistant that provides real-time tips, auto-generated summaries, and task extraction—without awkward bot joiners.
+- [Relay](https://onrelay.app) - ❌ Every time you open a new AI chat, you paste the same context all over again — your stack, decisions, constraints, where you left off 🛠️ Relay fixes this.
+- [mia](https://www.gomia.ai) - Transform customer signals into executable specs.
 
 ## 🔎 Search & Discovery
 
@@ -482,6 +489,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Kelviq](https://www.kelviq.com) - Kelviq is the complete monetization platform for SaaS, AI, and digital products.
 - [TipTap](https://tiptap.cx) - TipTap lets customers tip the support agents who helped them - directly, after a great interaction.
 - [Causo](http://causo.ai) - AI agents that book VC meetings for you + free resources and tools to power your fundraise.
+- [Vela Partners](https://vela.partners) - Leading quant VC: Turning art into science through AI.
 
 ## 🛠 APIs, SDKs & Infrastructure
 
@@ -506,6 +514,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [apideck](https://www.apideck.com/?+utm_source=Twitter) - Apideck is a unified API platform that lets B2B SaaS and Fintech companies connect to accounting, HRIS, and CRM software without building and maintaining each integration separately.
 - [Thesys](https://www.thesys.dev) - C1 by Thesys is a Generative UI API that augments LLMs to respond with interactive UI like charts, forms, cards, and more in real-time, instead of plain text.
 - [Theneo](https://theneo.io) - Theneo is an AI tool that generates Stripe-like API docs.
+- [Composio](https://composio.dev) - Your AI agent knows what to do, Composio gives it the tools to actually do it.
+- [HasData](https://hasdata.com) - HasData is the managed web scraping service for data pipelines and AI agents.
 
 ## 💬 Chatbots & Conversational
 
@@ -589,6 +599,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Genpire](https://genpire.com) - Most AI stops at the idea.
 - [OpenJobs AI](https://www.openjobs-ai.com) - OpenJobs AI is an end-to-end autonomous AI recruitment platform, powered by an AI agent named Mira at its core, capable of automating the entire recruitment process around the clock — from….
 - [FileFlan](https://fileflan.com) - Phone browser to command line, Apple to Android, any device to any device.
+- [Crustimate](https://tools.crustdata.com/crustimate) - AI recruiting tools now filter candidates before any human sees your name.
+- [Gradient Bang](https://www.gradient-bang.com) - Gradient Bang is a new kind of software: AI-native, built from the ground up to use LLMs everywhere.
 
 ## Contributing
 
