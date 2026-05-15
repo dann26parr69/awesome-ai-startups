@@ -7,7 +7,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 **Building one?** Add your startup by opening a PR — see [contributing.md](contributing.md) for the format and inclusion criteria.
 
 ## Contents
-- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (27)
+- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (28)
 - [🤖 AI Agents & Assistants](#ai-agents-assistants) (91)
 - [💻 Coding & Developer Tools](#coding-developer-tools) (112)
 - [🎙 Audio, Voice & Music](#audio-voice-music) (33)
@@ -55,6 +55,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Frontdesk AI](https://myaifrontdesk.com) - Enter your website and get all the AI agents you need to grow your business.
 - [OptimizeGEO.ai](https://www.optimizegeo.ai) - OptimizeGEO helps brands win visibility, accuracy, and trust in AI answers.
 - [Pressmaster.ai](https://www.pressmaster.ai) - Amplify your intelligence with the world's first AI built for cognitive amplification.
+- [ShipBoost](https://shipboost.io) - ShipBoost helps SaaS founders turn a launch into long-tail discovery with weekly launch boards and AI-ready product listings.
 
 ## 🤖 AI Agents & Assistants
 
