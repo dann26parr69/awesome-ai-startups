@@ -9,13 +9,13 @@ The goal: make useful indie AI products easier to find, share, and support.
 ## Contents
 - [📣 Marketing, SEO & Sales](#marketing-seo-sales) (29)
 - [🤖 AI Agents & Assistants](#ai-agents-assistants) (92)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (113)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (115)
 - [🎙 Audio, Voice & Music](#audio-voice-music) (33)
-- [🎬 Video & Animation](#video-animation) (18)
+- [🎬 Video & Animation](#video-animation) (19)
 - [🎨 Image, Design & 3D](#image-design-3d) (33)
 - [✍️ Writing & Content](#writing-content) (20)
 - [📊 Analytics & Data](#analytics-data) (27)
-- [🗂 Productivity & Notes](#productivity-notes) (28)
+- [🗂 Productivity & Notes](#productivity-notes) (29)
 - [🔎 Search & Discovery](#search-discovery) (8)
 - [🎓 Education & Learning](#education-learning) (6)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (5)
@@ -24,7 +24,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [💬 Chatbots & Conversational](#chatbots-conversational) (6)
 - [👥 Social & Community](#social-community) (5)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (2)
-- [✨ Everything Else](#everything-else) (60)
+- [✨ Everything Else](#everything-else) (61)
 
 ## 📣 Marketing, SEO & Sales
 
@@ -269,6 +269,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [AutonomyAI](https://autonomyai.io) - AutonomyAI is the operating system for building in production and the first AI-powered platform for product teams.
 - [Raindrop](https://www.raindrop.ai) - Raindrop helps AI engineers discover issues in production agents, and build “self-healing” agents that propose and validate fixes automatically.
 - [Cline](https://cline.bot) - Cline’s recent launches, reviews, product updates, discussions, and more on Product Hunt.
+- [Wring](https://getwring.app) - Wring is an offline macOS menu bar app with 12 developer tools for JWTs, hashes, regex, JSON, Base64, timestamps, cron, colors, UUIDs, diffs, load monitoring, andenv secrets.
+- [Agentmemory](https://agent-memory.dev) - You can now give Hermes, Claude Code, and Codex infinite memory.
 
 ## 🎙 Audio, Voice & Music
 
@@ -326,6 +328,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Fluent Frame](https://podclips.pro) - You're shipping 3 updates a week, but marketing each feature eats hours of your time - or thousands of dollars at an agency.
 - [ContentPilots](https://contentpilots.net) - Upload one video and ContentPilots AI cuts it into countless viral Shorts, Reels & TikToks — automatically.
 - [Edit Mind](https://edit-mind.com) - Built for content creators, video editors, journalists, and video production companies.
+- [Loova Agents](https://loova.ai/ai-agent/intro) - Tell Loova your idea in everyday words, and Loova agents act as your personal director to plan, direct, and generate your film.
 
 ## 🎨 Image, Design & 3D
 
@@ -448,6 +451,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Spellar AI](https://spellar.ai) - Elevate your online meetings with a native assistant that provides real-time tips, auto-generated summaries, and task extraction—without awkward bot joiners.
 - [Relay](https://onrelay.app) - ❌ Every time you open a new AI chat, you paste the same context all over again — your stack, decisions, constraints, where you left off 🛠️ Relay fixes this.
 - [mia](https://www.gomia.ai) - Transform customer signals into executable specs.
+- [Raybeam](https://raybeam.live) - Raybeam is a macOS app for sharing a draggable, resizable region of your screen—perfect for ultra-wide and multi-monitor setups.
 
 ## 🔎 Search & Discovery
 
@@ -601,6 +605,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [FileFlan](https://fileflan.com) - Phone browser to command line, Apple to Android, any device to any device.
 - [Crustimate](https://tools.crustdata.com/crustimate) - AI recruiting tools now filter candidates before any human sees your name.
 - [Gradient Bang](https://www.gradient-bang.com) - Gradient Bang is a new kind of software: AI-native, built from the ground up to use LLMs everywhere.
+- [M5Stack PaperColor](https://shop.m5stack.com/products/m5paper-color-esp32s3-dev-kit) - PaperColor features 4-inch full-color E Ink, ESP32-S3, Wi-Fi, sensor and audio.
 
 ## Contributing
 
