@@ -11,16 +11,16 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [🤖 AI Agents & Assistants](#ai-agents-assistants) (92)
 - [💻 Coding & Developer Tools](#coding-developer-tools) (115)
 - [🎙 Audio, Voice & Music](#audio-voice-music) (33)
-- [🎬 Video & Animation](#video-animation) (19)
-- [🎨 Image, Design & 3D](#image-design-3d) (33)
+- [🎬 Video & Animation](#video-animation) (20)
+- [🎨 Image, Design & 3D](#image-design-3d) (34)
 - [✍️ Writing & Content](#writing-content) (20)
 - [📊 Analytics & Data](#analytics-data) (27)
 - [🗂 Productivity & Notes](#productivity-notes) (29)
 - [🔎 Search & Discovery](#search-discovery) (8)
-- [🎓 Education & Learning](#education-learning) (6)
+- [🎓 Education & Learning](#education-learning) (7)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (5)
-- [💰 Finance, Crypto & Payments](#finance-crypto-payments) (10)
-- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (23)
+- [💰 Finance, Crypto & Payments](#finance-crypto-payments) (11)
+- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (24)
 - [💬 Chatbots & Conversational](#chatbots-conversational) (6)
 - [👥 Social & Community](#social-community) (5)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (2)
@@ -329,6 +329,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [ContentPilots](https://contentpilots.net) - Upload one video and ContentPilots AI cuts it into countless viral Shorts, Reels & TikToks — automatically.
 - [Edit Mind](https://edit-mind.com) - Built for content creators, video editors, journalists, and video production companies.
 - [Loova Agents](https://loova.ai/ai-agent/intro) - Tell Loova your idea in everyday words, and Loova agents act as your personal director to plan, direct, and generate your film.
+- [Vivago](https://vivago.ai) - Generate AI videos that captivate with stunning results, coupled with 4K Video Enhancement and beginner-friendly automatic prompt optimization, delivers an unparalleled video creation experience….
 
 ## 🎨 Image, Design & 3D
 
@@ -366,6 +367,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Seer Platform](https://seerplatform.dev) - Seer is built for inventors, offering an AI-powered framework to develop physical products.
 - [TinyTools](https://tinytools-smoky.vercel.app) - Free browser-based AI background remover that runs locally in-browser (WASM), bundled with open-source utilities for indie makers.
 - [Agentic Website Builder 2.0 by Lokuma](https://lokuma.ai/website-builder) - Lokuma 2.0 is a design-aware agent harness for websites. Most AI builders can generate a first draft. But real sites need structure, taste, brand consistency, editing, publishing, forms, and….
+- [Kirki](https://kirki.com) - Kirki gives WordPress designers a freeform infinite canvas — design freely without structure imposed.
 
 ## ✍️ Writing & Content
 
@@ -473,6 +475,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [B150](https://b150.ai) - The professional network reimagined for Gen AI builders; where creators connect, learn, and launch real products together.
 - [How AI-pilled are you?](https://www.ai-pilled.com) - The P9 AI Fluency Index gives you an explainable grade in ~12 minutes, along with clear recommendations on how to reach the next level.
 - [Pickurai](https://pickurai.ai) - AI tool recommender that returns one best match, two alternatives, and one indie pick from a six-question quiz under 60 seconds.
+- [SUN](https://sunapp.ai) - SUN turns any topic into a personalized AI generated audio course you can listen to while living your life.
 
 ## 🩺 Health, Fitness & Wellness
 
@@ -494,6 +497,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [TipTap](https://tiptap.cx) - TipTap lets customers tip the support agents who helped them - directly, after a great interaction.
 - [Causo](http://causo.ai) - AI agents that book VC meetings for you + free resources and tools to power your fundraise.
 - [Vela Partners](https://vela.partners) - Leading quant VC: Turning art into science through AI.
+- [Fere AI](https://www.fereai.xyz) - Unlike generic crypto research assistants, Fere turns market signals into autonomous trading workflows.
 
 ## 🛠 APIs, SDKs & Infrastructure
 
@@ -520,6 +524,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Theneo](https://theneo.io) - Theneo is an AI tool that generates Stripe-like API docs.
 - [Composio](https://composio.dev) - Your AI agent knows what to do, Composio gives it the tools to actually do it.
 - [HasData](https://hasdata.com) - HasData is the managed web scraping service for data pipelines and AI agents.
+- [Files SDK](https://files-sdk.dev) - A unified storage SDK for object and blob backends.
 
 ## 💬 Chatbots & Conversational
 
