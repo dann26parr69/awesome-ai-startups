@@ -7,16 +7,16 @@ The goal: make useful indie AI products easier to find, share, and support.
 **Building one?** Add your startup by opening a PR — see [contributing.md](contributing.md) for the format and inclusion criteria.
 
 ## Contents
-- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (29)
-- [🤖 AI Agents & Assistants](#ai-agents-assistants) (92)
+- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (33)
+- [🤖 AI Agents & Assistants](#ai-agents-assistants) (95)
 - [💻 Coding & Developer Tools](#coding-developer-tools) (115)
-- [🎙 Audio, Voice & Music](#audio-voice-music) (33)
+- [🎙 Audio, Voice & Music](#audio-voice-music) (34)
 - [🎬 Video & Animation](#video-animation) (20)
-- [🎨 Image, Design & 3D](#image-design-3d) (34)
+- [🎨 Image, Design & 3D](#image-design-3d) (36)
 - [✍️ Writing & Content](#writing-content) (20)
-- [📊 Analytics & Data](#analytics-data) (27)
-- [🗂 Productivity & Notes](#productivity-notes) (29)
-- [🔎 Search & Discovery](#search-discovery) (8)
+- [📊 Analytics & Data](#analytics-data) (28)
+- [🗂 Productivity & Notes](#productivity-notes) (31)
+- [🔎 Search & Discovery](#search-discovery) (9)
 - [🎓 Education & Learning](#education-learning) (7)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (5)
 - [💰 Finance, Crypto & Payments](#finance-crypto-payments) (11)
@@ -24,7 +24,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [💬 Chatbots & Conversational](#chatbots-conversational) (6)
 - [👥 Social & Community](#social-community) (5)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (2)
-- [✨ Everything Else](#everything-else) (61)
+- [✨ Everything Else](#everything-else) (63)
 
 ## 📣 Marketing, SEO & Sales
 
@@ -57,6 +57,10 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Pressmaster.ai](https://www.pressmaster.ai) - Amplify your intelligence with the world's first AI built for cognitive amplification.
 - [ShipBoost](https://shipboost.io) - ShipBoost helps SaaS founders turn a launch into long-tail discovery with weekly launch boards and AI-ready product listings.
 - [Lensmor](https://www.lensmor.com) - Unlike generic contact databases, Lensmor starts with exhibitor data, helping teams discover relevant events, find exhibiting companies, identify decision-makers, reveal verified emails, and book….
+- [LandingHero AI](https://www.landinghero.ai) - Most visitors land on your website, have questions, and leave without answers.
+- [Synter Media AI](https://syntermedia.ai) - Agentic AI advertising platform to plan, launch, and optimize cross-channel campaigns across Google Ads, Meta, LinkedIn, Reddit, and X.
+- [Searchad.ai](https://searchad.ai) - Cursor for Apple Search Ads.
+- [SocLeads](https://socleads.com) - 🚀 Scrape Emails from Instagram, Facebook, Linkedin, and Google Maps by keyword or #hashtag.
 
 ## 🤖 AI Agents & Assistants
 
@@ -152,6 +156,9 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Asteroid](https://asteroid.ai) - Asteroid lets anyone easily build complex computer-use AI agents.
 - [Tendem by Toloka](https://tendem.ai) - Tendem is a platform where human experts and AI agents complete high-stakes tasks.
 - [OpenHuman](https://tinyhumans.ai/openhuman) - 90% of people who try AI agents give up.
+- [Fulcrum Agents](https://fulcrumds.com/agents) - Fulcrum Agents provides your own dedicated AI agent without the setup headache.
+- [Triggered Agents by Adaptive](https://adaptive.ai/triggered-agents) - Adaptive lets you attach AI agents to events in your business tools so they act automatically when a trigger fires.
+- [LobeHub](https://lobehub.com) - LobeHub is a system built for human-agent collaboration, with CAO — your Chief Agent Operator — at the center.
 
 ## 💻 Coding & Developer Tools
 
@@ -307,6 +314,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [MusicMinutes](https://www.musicminutes.co) - For independent artists to get the contacts for 24,000 vetted Spotify playlists so you can submit/pitch your music direct and keep your network forever!.
 - [Synci](https://app.synci.ai/app) - Synci is an all-in-one AI soundtrack platform built for content creators.
 - [Snaply](https://snaply.ai) - Snaply is free and private AI app for Mac.
+- [Voiser AI](https://voiser.ai/ai-voiceover) - Voiser helps creators, teams, and businesses turn text into the most human like AI voiceovers.
 
 ## 🎬 Video & Animation
 
@@ -368,6 +376,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [TinyTools](https://tinytools-smoky.vercel.app) - Free browser-based AI background remover that runs locally in-browser (WASM), bundled with open-source utilities for indie makers.
 - [Agentic Website Builder 2.0 by Lokuma](https://lokuma.ai/website-builder) - Lokuma 2.0 is a design-aware agent harness for websites. Most AI builders can generate a first draft. But real sites need structure, taste, brand consistency, editing, publishing, forms, and….
 - [Kirki](https://kirki.com) - Kirki gives WordPress designers a freeform infinite canvas — design freely without structure imposed.
+- [Krea](https://www.krea.ai) - KREA is a website where you can use AI to make images and videos.
+- [ReactVision Studio](https://reactvision.xyz/studio) - A browser-based visual editor for building AR & VR scenes.
 
 ## ✍️ Writing & Content
 
@@ -422,6 +432,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [1% Better](https://1better.today) - The only habit tracker built around the mathematics of compounding.
 - [Calculeaf](https://calculeaf.com) - Web-based engineering calculation worksheets with AI formula generation.
 - [Known Agents](https://knownagents.com) - Known Agents is "Google Analytics for bots".
+- [Polarity](https://polarity.so) - Polarity monitors every agent decision in production, surfaces failure patterns before users hit them, and turns trajectories into evals that compound your agent’s reliability over time!.
 
 ## 🗂 Productivity & Notes
 
@@ -454,6 +465,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Relay](https://onrelay.app) - ❌ Every time you open a new AI chat, you paste the same context all over again — your stack, decisions, constraints, where you left off 🛠️ Relay fixes this.
 - [mia](https://www.gomia.ai) - Transform customer signals into executable specs.
 - [Raybeam](https://raybeam.live) - Raybeam is a macOS app for sharing a draggable, resizable region of your screen—perfect for ultra-wide and multi-monitor setups.
+- [Draft](https://draft.innosage.co) - Draft captures valuable answers from ChatGPT, Gemini, DeepSeek, vertical chatbots, then turns them into editable, searchable notes.
+- [Shadow](https://www.shadow.do) - Shadow is the AI interface for your Mac.
 
 ## 🔎 Search & Discovery
 
@@ -465,6 +478,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [tasteit](https://tasteit.me) - Nobody owns food as a social behavior.
 - [ClayHog](https://clayhog.com) - See what ChatGPT, Gemini, Perplexity, Claude & AI Overviews really say about your brand.
 - [WhoAmILookingFor](https://www.whoamilookingfor.com) - WhoAmILookingFor turns your LinkedIn connection CSVs into a private semantic search engine.
+- [pixserp](https://pixserp.com/ph) - pixserp is the AI-native search engine for builders.
 
 ## 🎓 Education & Learning
 
@@ -611,6 +625,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Crustimate](https://tools.crustdata.com/crustimate) - AI recruiting tools now filter candidates before any human sees your name.
 - [Gradient Bang](https://www.gradient-bang.com) - Gradient Bang is a new kind of software: AI-native, built from the ground up to use LLMs everywhere.
 - [M5Stack PaperColor](https://shop.m5stack.com/products/m5paper-color-esp32s3-dev-kit) - PaperColor features 4-inch full-color E Ink, ESP32-S3, Wi-Fi, sensor and audio.
+- [SizzleAir](https://www.sizzleair.app) - SizzleAir is a tiny macOS thermal assistant built specifically for fanless MacBook Airs.
+- [Origio](https://www.findorigio.com) - Most relocation tools give you generic city comparisons.
 
 ## Contributing
 
