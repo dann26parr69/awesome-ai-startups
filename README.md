@@ -9,7 +9,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 ## Contents
 - [📣 Marketing, SEO & Sales](#marketing-seo-sales) (33)
 - [🤖 AI Agents & Assistants](#ai-agents-assistants) (95)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (115)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (116)
 - [🎙 Audio, Voice & Music](#audio-voice-music) (34)
 - [🎬 Video & Animation](#video-animation) (20)
 - [🎨 Image, Design & 3D](#image-design-3d) (36)
@@ -175,6 +175,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Onform.work](https://onform.work) - Onform makes form creation, data collection, and management fully conversational.
 - [Claro - Research Agents](https://getclaro.ai/ai-research-agent) - Today, we're opening the first public module of Claro: Research Agents. 10+ task-specific agents run inside a native table - enrichment,.
 - [CodeHealth MCP Server by CodeScene](https://codescene.com/product/mcp-server) - CodeHealth MCP Server ensures agents and AI coding assistants write maintainable, production-ready code without introducing technical debt.
+- [LegacyDoc AI](https://www.romanticode.com/legacydoc-ai/) - VS Code extension for generating AI-ready documentation, architecture maps, and code audit reports from local workspaces.
 - [X Island](https://xisland.app) - xIsland turns the notch into mission control for Claude Code, Codex, and Gemini CLI, etc.
 - [Nibbo](https://nibbo.space) - Nibbo replaces the family group chat chaos with one calm space — tasks, calendar, meal planning, shopping lists, and budgeting, all shared.
 - [X-Pilot](https://www.x-pilot.ai) - X-Pilot turns docs into video courses for people who explain anything and can't risk hallucinations.
