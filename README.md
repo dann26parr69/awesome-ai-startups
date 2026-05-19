@@ -434,6 +434,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Calculeaf](https://calculeaf.com) - Web-based engineering calculation worksheets with AI formula generation.
 - [Known Agents](https://knownagents.com) - Known Agents is "Google Analytics for bots".
 - [Polarity](https://polarity.so) - Polarity monitors every agent decision in production, surfaces failure patterns before users hit them, and turns trajectories into evals that compound your agent’s reliability over time!.
+- [AI for Database](https://aifordatabase.com) - Connect to any database in plain English — no SQL needed. Instant insights, self-refreshing dashboards, and workflow automations without code.
 
 ## 🗂 Productivity & Notes
 
